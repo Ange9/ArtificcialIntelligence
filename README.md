@@ -1,11 +1,12 @@
 # Artificial Intelligence Assignments – Colorado State University
 
-This repository contains assignments completed as part of my semester pathway at **Colorado State University** in the **Artificial Intelligence** class.  
-All assignments are implemented in **Python** using **Jupyter Notebooks**.
+This repository contains assignments completed as part of my **Master’s degree program** at **Colorado State University**, in the **School of Computer Science**.  
+The assignments were developed for the **Artificial Intelligence** class and are implemented in **Python** using **Jupyter Notebooks**.
 
 ---
 
 ## 📂 Repository Structure
+
 - **Jupyter Notebooks:**  
   - `Recursive Best-First Search.ipynb` – Implementation of the Recursive Best-First Search algorithm.  
   - `Angelica-A5.ipynb` – Assignment 5 notebook.  
